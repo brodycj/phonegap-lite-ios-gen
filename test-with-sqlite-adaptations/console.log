@@ -1,0 +1,7 @@
+2012-07-30 01:13:33.187 TestING[13694:13403] Device initialization: DeviceInfo = {"name":"iPhone Simulator","uuid":"F6176FCA-9496-5689-AB1F-D05106F52EB3","platform":"iPhone Simulator","version":"5.1"};
+2012-07-30 01:13:33.205 TestING[13694:13403] Detected docs path: /Users/cbrody/Library/Application Support/iPhone Simulator/5.1/Applications/7C3F8CE5-6E46-4AE0-A9DF-8622380863B6/Documents
+2012-07-30 01:13:33.205 TestING[13694:13403] using dbPath: /Users/cbrody/Library/Application Support/iPhone Simulator/5.1/Applications/7C3F8CE5-6E46-4AE0-A9DF-8622380863B6/Documents/Database
+2012-07-30 01:13:33.207 TestING[13694:13403] [INFO] DB opened: Database
+2012-07-30 01:13:37.647 TestING[13694:13403] [INFO] insertId: 1 -- probably 1
+2012-07-30 01:13:38.494 TestING[13694:13403] [INFO] res.rows.length: 1 -- should be 1
+Terminating in response to SpringBoard's termination.
