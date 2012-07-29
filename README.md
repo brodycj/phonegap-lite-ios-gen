@@ -1,4 +1,8 @@
-phonegap-ios-gen
+# PhoneGap-lite for iOS
+
+TBD (bla bla bla)
+
+phonegap ios-gen
 ===
 
 cmd line utilities for common phonegap/ios tasks; orig prototyped in cordova and now on their way to phonegap/ios
@@ -8,7 +12,7 @@ reqs
 
 1. ios sdk
 2. [ios-sim](https://github.com/Fingertips/ios-sim)
-3. phonegap/iphone
+3. phonegap/iphone - TBD from PG-lite
 
 usage
 ---
